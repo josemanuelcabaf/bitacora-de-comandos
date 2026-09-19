@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Modo
+      - Acción
+      - Tema
+      - Propósito
+      - file.tags
+    sort: []
+    columnSize:
+      note.Modo: 149
+      note.Tema: 148
+      note.Propósito: 121
